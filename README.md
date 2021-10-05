@@ -13,4 +13,4 @@ Just a simple html/css project.  I built all files from scratch.  I only followe
 This was too easy for me, but I did it to complete the course.
 
 ### Website:  
-Simple website: [https://promoteglobal.github.io/art/]
+Simple website: (https://promoteglobal.github.io/art/)
